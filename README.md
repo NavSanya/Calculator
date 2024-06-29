@@ -35,4 +35,4 @@ This project is licensed under the MIT License.
 ## Authors
 -------
 
-* Your Name - Nav Sanya Anand
+* Nav Sanya Anand
